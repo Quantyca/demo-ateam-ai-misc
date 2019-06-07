@@ -5,14 +5,8 @@ Scripts and samples to support [talks](https://www.slideshare.net/quantycabi) an
 
 ## Contents
 
-- Topic-1
-  - [xxx](yyy)  
-
-- Topic-2
-  - [xxx](yyy)
- 
-- Misc
- - [xxx](yyy)
+- peppers
+  Classify pepper images (13 classes are avilable) 
 
 
 ## Feedback & Questions
