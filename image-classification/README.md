@@ -5,7 +5,7 @@ Scripts and samples to support [talks](https://www.slideshare.net/quantycabi) an
 
 ## Contents
 
-- peppers
+- peppers:
   Classify pepper images (13 classes are avilable) 
 
 
