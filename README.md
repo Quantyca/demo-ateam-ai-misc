@@ -1,6 +1,6 @@
 # demo-scene
 
-Scripts and samples to support [Quantyca](https://www.linkedin.com/company/quantyca/) [https://www.slideshare.net/quantycabi](talks) and [https://medium.com/quantyca](blog posts). May be rough around the edges. 
+Scripts and samples to support [Quantyca](https://www.linkedin.com/company/quantyca/) [talks](https://www.slideshare.net/quantycabi) and [blog posts](https://medium.com/quantyca). May be rough around the edges. 
 
 
 ## Contents
