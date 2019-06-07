@@ -5,8 +5,9 @@ Scripts and samples to support [talks](https://www.slideshare.net/quantycabi) an
 
 ## Contents
 
-- peppers:
-  Classify pepper images (13 classes are avilable) 
+- peppers: Classify pepper images (13 classes are avilable) 
+  - peppers-training.ipynb: train the classifier and save the model ([online veriosn](https://drive.google.com/open?id=1jK5GvOM95WkDXegbFUCtbPmAftlsB7s6))
+  - peppers-serving.ipynb: load the model and perform classification on input images ([online version](https://drive.google.com/open?id=15biz5wEMsNajTXb6vzAcDqfEldkEUpbC))
 
 
 ## Feedback & Questions
