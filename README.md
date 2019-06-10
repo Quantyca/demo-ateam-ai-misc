@@ -5,14 +5,17 @@ Scripts and samples to support [talks](https://www.slideshare.net/quantycabi) an
 
 ## Contents
 
-- Topic-1
-  - [xxx](yyy)  
+- **Image recognition**
+  Tests on images classification (single & multi labell), regression, segmentation 
 
-- Topic-2
-  - [xxx](yyy)
+- **Recommendation**
+  Tests on recommendation using enbeddings and neuronal networks
  
-- Misc
- - [xxx](yyy)
+- **NLP**
+  Test on natural language process (mostly using ULMFiT algorithm)
+
+- **Misc**
+  Other test on misc topics (es. GANs)
 
 
 ## Feedback & Questions
