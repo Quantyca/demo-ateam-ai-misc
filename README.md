@@ -5,16 +5,16 @@ Scripts and samples to support [talks](https://www.slideshare.net/quantycabi) an
 
 ## Contents
 
-- **Image recognition**
+- [image-processing](https://github.com/Quantyca/demo-ateam-dl/tree/master/image-processing)
   Tests on images classification (single & multi labell), regression, segmentation 
 
-- **Recommendation**
+- [recommendation](https://github.com/Quantyca/demo-ateam-dl/tree/master/recommendation)
   Tests on recommendation using enbeddings and neuronal networks
  
-- **NLP**
+- [nlp](https://github.com/Quantyca/demo-ateam-dl/tree/master/nlp)
   Test on natural language process (mostly using ULMFiT algorithm)
 
-- **Misc**
+- [misc](https://github.com/Quantyca/demo-ateam-dl/tree/master/misc)
   Other test on misc topics (es. GANs)
 
 
