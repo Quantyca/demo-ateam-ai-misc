@@ -9,6 +9,8 @@ To run the notebooks  conatined in this repo click on them and from the preview 
 
 - **italianfood:** Classify italian food images (13 classes are available). See related blog post [here](https://medium.com/@francesco.gianferraripini/buon-appetito-a-fast-ai-spin-on-italian-food-ee14631bbdb6)
   - *italianfood.ipynb:* Train the classifier and test it on input images
+- **chepizzah.ai:** Classify different pizza flavours images (15 classes are available). See related blog post [here]()
+  - *chepizzah_ai.ipynb:* Train the classifier and test it on input images
 - **peppers:** Classify pepper images (13 classes are available) 
   - *peppers-training.ipynb:* Train the classifier and save the model 
   - *peppers-serving.ipynb:* Load the model and perform classification on input images 
